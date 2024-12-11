@@ -25,7 +25,7 @@
 module.exports = {
       "packagerConfig": {
         "name": "Virtueller Lesesaal der Landesbibliothek Berlin",
-      	"icon": "./assets/icons/app_48.ico"
+      	"icon": "./assets/icons/app_256.ico"
       },
       "makers": [
         {
@@ -33,7 +33,7 @@ module.exports = {
           "config": {
             "name": "goobi_viewer_desktop",
             "authors": "intranda GmbH",
-            "setupIcon": "./assets/icons/app_32.ico"
+            "setupIcon": "./assets/icons/app_256.ico"
           }
         },
         {

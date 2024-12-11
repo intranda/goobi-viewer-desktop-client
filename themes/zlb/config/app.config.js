@@ -47,7 +47,7 @@ module.exports = {
   /**
   The image within the assets/icons folder to use as the application icon
   **/
-  icon: "favicon-46x46.png",
+  icon: "app_256.png",
   /**
    * If set to true, a menu option is added which prints the browser content
    */
